@@ -4,7 +4,7 @@
 
 <div align="center" style="display: inline_block; margin-bottom: 20px;"><br>
   <a href="https://discord.com//lordzinrs"><img align="center" alt="Discord" height="30" width="120" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="mailto:davirrs11@gmail.com"><img align="center" alt="Email" height="30" width="120" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+  <a href="mailto:davr.17@gmail.com"><img align="center" alt="Email" height="30" width="120" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
   <img align="center" alt="Profile Views" height="30" width="180" src="https://komarev.com/ghpvc/?username=Lordzinrs&style=for-the-badge">
 </div>
 
