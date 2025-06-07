@@ -15,7 +15,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Lordzinrs&show_icons=true&theme=transparent&title_color=FF0000&text_color=FF0000&icon_color=FF0000&include_all_commits=true&count_private=true" style="margin-right: 10px;">
   </a>
   <a>
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lordzinrs&layout=compact&langs_count=7&theme=transparent&title_color=FF0000&text_color=FF0000">
+    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lordzinrs&layout=compact&langs_count=7&theme=transparent&title_color=FF0000&text_color=FF0000">
   </a>
 </div><br>
 
