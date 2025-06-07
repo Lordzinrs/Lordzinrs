@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=CC0000&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Davi+Rodrigues+(Lordzinrs);+Seja+bem-vindo!)](https://git.io/typing-svg)
 
@@ -26,4 +26,5 @@
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CC0000&height=120&section=footer"/>
+<!-- Rodapé com cor preta -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
